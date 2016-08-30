@@ -26,6 +26,7 @@
                     <asp:Parameter Name="id_cate" Type="Int32" />
                 </UpdateParameters>
             </asp:SqlDataSource>
+            <div style="background-color: red; width: 100%; height: 100px;"></div>
         </div>
     </section>
 </asp:Content>
